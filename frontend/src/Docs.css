@@ -1,0 +1,31 @@
+
+
+@media screen and (max-width:425px) {
+    .cont{
+        width:100%;
+        min-height: 100vh;
+    }
+    .doc{
+        width:60%;
+        height:270px;
+        margin-top: 60px;
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+}
+
+@media (min-width:426px) and (max-width:3000px) {
+    .cont{
+        width:70%;
+        min-height: 100vh;
+    }
+    .doc{
+        margin-left:50px;
+        height:280px;
+        margin-top: 60px;
+        margin-left: 55px;
+        margin-right: 55px;
+    }
+}
+
+

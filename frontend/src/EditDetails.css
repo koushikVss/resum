@@ -1,0 +1,13 @@
+/* @media screen and (max-width:425px) {
+    .save {
+
+        width: 200px;
+    }
+}
+
+@media (min-width:426px) and (max-width:3000px) {
+    .save {
+
+        width: 100px;
+    }
+} */
